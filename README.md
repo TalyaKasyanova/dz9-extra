@@ -9,5 +9,6 @@
 <li>Ширину кожного пункту робити у відсотках (наприклад: width: 50%)</li>
 <li>Для ефекту зміни прозорості використовуємо :hover і opacity</li>
 <li>Іконки беремо звідси - <a href=https://erikflowers.github.io/weather-icons/>посилання</a></li>
+</ul>
 <br>
 <p> Для плавних анімацій використовуємо CSS-код: *{transition: all .1s ease-in;}</p>
